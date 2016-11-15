@@ -1,0 +1,8 @@
+# Input image address
+input_file = sample_input.jpg
+
+# Dataset mean file.
+mean_file = ilsvrc_2012_mean.mat
+
+# Compare intermediate results with the expected results. If you want to use your own image file, set this to 0.
+cmp = 1
